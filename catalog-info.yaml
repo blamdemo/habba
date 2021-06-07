@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: habba
+  annotations:
+    github.com/project-slug: blamdemo/habba
+spec:
+  type: other
+  lifecycle: unknown
+  owner: team-a
